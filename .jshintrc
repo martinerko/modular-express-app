@@ -1,0 +1,13 @@
+{
+    "eqnull": true,
+    "sub": true,
+    "undef": true,
+    "node": true,
+    "nonstandard": true,
+    "unused": true,
+    "maxcomplexity": 20,
+    "laxbreak": true,
+    "expr": true,
+    "curly": true
+}
+
