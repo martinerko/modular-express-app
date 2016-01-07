@@ -1,4 +1,7 @@
  Modular Express Application
+ 
+ [![Dependency Status](https://david-dm.org/martinerko/modular-express-app.svg)](https://david-dm.org/martinerko/modular-express-app)
+ 
 ======================
 
 This demo shows how to build modular application using [Express](http://expressjs.com).
