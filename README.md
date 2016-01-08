@@ -1,7 +1,7 @@
- Modular Express Application
- 
+# Modular Express Application
+
  [![Dependency Status](https://david-dm.org/martinerko/modular-express-app.svg)](https://david-dm.org/martinerko/modular-express-app)
- 
+
 ======================
 
 This demo shows how to build modular application using [Express](http://expressjs.com).
@@ -18,4 +18,6 @@ Each directory represents separate screen and consists at least from following f
 
 Run ```node app.js```.
 
-The app starts a server and listens on port 3000 for connections.
+** Updates **
+
+- 2016-01-08: Added notes how to secure Express app with SSL, please see [`HTTPS.md`](HTTPS.md)
